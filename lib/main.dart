@@ -101,6 +101,9 @@ class _MyHomePageState extends State<MyHomePage> {
               'Arie Rachmad',
             ),
             Text(
+              'Arie Rachmad',
+            ),
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
